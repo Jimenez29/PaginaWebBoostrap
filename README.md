@@ -1,2 +1,2 @@
 # PaginaWebBoostrap
- En este fabiola creara una pagina web a su estilo utilizando boostrap
+ En este repositorio fabiola creara diferentes practicas de programacion
